@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Almond-Latte</h1>
 <h3 align="center">Just a Students majoring in security</h3>
 
-- 📝 I regularly write articles on [almond-latte.com](almond-latte.com)
+- 📝 I regularly write articles on [almond-latte.com](https://almond-latte.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
